@@ -9,14 +9,14 @@ From your terminal:
 git clone https://github.com/matthewstewart/opencsa-api.git
 ```
 
-### Install Modules
-```
-npm install
-```
-
 ### Change Directory To Project
 ```
 cd opencsa-api
+```
+
+### Install Modules
+```
+npm install
 ```
 
 ### Run 
